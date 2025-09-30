@@ -9,8 +9,6 @@ team_leads:
 
 github: AshrafBoussahi/PI-HQNN-For-PKPD-Modeling
 
-youtube_video: <ToBeADDED>
-
 ---
 
 ---
@@ -48,9 +46,8 @@ This work is part of the Quantum Innovation Challenge 2025, organised by the Bio
 
 Our project proposal introduces a novel approach for clinical trial optimization and Pharmacokinetics/Pharmacodynamics (PK/PD) modelling through a Physics-Informed Hybrid Quantum Neural Network, which, to the best of our knowledge, has not yet been applied in this context, and the preliminary results of our prototype show promising outcomes. Figure 1 summarizes the method
 
-In the next phases — if selected — we aim to further validate our concept through solid, practical, and extensible results by the end of Phase II and by the deadline of the Quantum European Conference in Copenhagen. The supercomputing capabilities and the mentoring of expert pharmacologists will certainly accelerate this process.
-
-By the end of Phase III and the Quantum Innovation Challenge, we plan to develop a beta version of quantum-based software, **Qlynix** (a package with a possible graphical interface) that incorporates our approach alongside benchmarked alternatives, and prepare a camera-ready research paper encompassing all findings of this work, to be shared with the scientific community for further contributions and potentially life-saving applications!
+<img width="791" height="470" alt="PI-hqnn2 drawio (1)" src="https://github.com/user-attachments/assets/d5dcd0c7-bdd1-43e8-b5c2-cab86ee8060a" />
+**Figure1**: he general architecture of the Physics-Informed Hybrid Quantum Neural Network (PI-HQNN) for PK/PD modeling
 
 ---
 
@@ -58,13 +55,26 @@ By the end of Phase III and the Quantum Innovation Challenge, we plan to develop
 
 Our team started working on the project in the second week of September — around the webinar — and we had to discover the field of pharmacometrics from scratch within a short period and apply our knowledge in Quantum Computing and Artificial Intelligence to it. We were able to accumulate a good amount of knowledge to present this project proposal.
 
+Note thatall figures in this work were created by the authors
+
 Attached to this repository, all the prepared documentation can be found:
 
 - [Draft research paper summarizing all the work that was done](!link)
-- [Presentation slides resuming the project](!link)
-- [Video showcasing the project]  
 - [Organised notebook containing prototyping code](!link)  
-- [Detailed work plan for the next phases](!here)  
+- [Detailed work plan for the next phases](!here)
+
+---
+
+### Plan for the next phases
+
+In the next phases — if selected — we aim to further validate our concept through solid, practical, and extensible results by the end of Phase II and by the deadline of the Quantum European Conference in Copenhagen. The supercomputing capabilities and the mentoring of expert pharmacologists will certainly accelerate this process.
+
+By the end of Phase III and the Quantum Innovation Challenge, we plan to develop a beta version of quantum-based software, **Qlynix** (a package with a possible graphical interface) that incorporates our approach alongside benchmarked alternatives, and prepare a camera-ready research paper encompassing all findings of this work, to be shared with the scientific community for further contributions and potentially life-saving applications!
+
+The plan is shown below:
+
+<img width="1111" height="823" alt="Plan" src="https://github.com/user-attachments/assets/5cb2cbb4-4adf-4873-907d-f5514a86f9e1" />
+
 
 
 
